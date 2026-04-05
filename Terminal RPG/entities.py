@@ -3,7 +3,6 @@ player = {
     'health': 100,
     'damage': 5,
     'defense': 2,
-    'items': [{'coins': 0}]
 }
 
 enemies = (
