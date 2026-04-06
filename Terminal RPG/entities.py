@@ -11,7 +11,7 @@ enemies = (
         'health': 20,
         'damage': 5,
         'defense': 1,
-        'drops': [{'coins': 5}]
+        'drops': {'coins': 5}
     },
 
     {
@@ -19,14 +19,14 @@ enemies = (
         'health': 50,
         'damage': 8,
         'defense': 3,
-        'drops': [{'coins': 10}]
+        'drops': {'coins': 10}
     },
 
     {
-        'name': 'whiterskeleton',
+        'name': 'witherskeleton',
         'health': 70,
         'damage': 10,
         'defense': 4,
-        'drops': [{'coins': 15}]
+        'drops': {'coins': 15}
     }
 )
